@@ -1,1 +1,1 @@
-print(“Aplikasi Kasir”)
+oooooo
